@@ -2,7 +2,6 @@
     pGRASS 实现
 */
 
-// #pragma omp proc_bind(close)
 #include <stack>
 #include <iostream>
 #include <vector>
